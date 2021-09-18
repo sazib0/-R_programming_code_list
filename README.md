@@ -1,7 +1,6 @@
  <div align="center">
   
-# R programming code list
-
+# R Coding List
 ```
   
  R programming 🐱‍👤🔢
